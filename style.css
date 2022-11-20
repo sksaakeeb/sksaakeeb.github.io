@@ -367,11 +367,7 @@ form .btn2 {
     margin-top: 20px;
 }
 
-
-
-
-
-/*-------------------css for small screen---------*/
+/*---------------------------------------------responsive-----------------------------------------------*/
 nav .fa-solid {
     display: none;
 }
@@ -383,7 +379,7 @@ nav .fa-solid {
 
     .header-text {
         margin-top: 100%;
-        font-size: 16px;
+        font-size: 13px;
     }
 
     .header-text h1 {
@@ -419,10 +415,6 @@ nav .fa-solid {
         cursor: pointer;
     }
 
-
-
-
-
     .sub-title {
         font-size: 40px;
     }
@@ -454,9 +446,9 @@ nav .fa-solid {
         font-size: 14px;
     }
 }
-    #msg{
-        color: #61b752;
-        margin-top: -40px;
-        display: block;
-    }
 
+#msg {
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
+}
