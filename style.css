@@ -347,6 +347,10 @@ nav ul li a:hover::after {
     background: #ff004f;
 }
 
+.get_in_touch{
+    font-size: 25px;
+    font-weight: 700;
+}
 .contact-right form {
     width: 100%;
 }
@@ -387,7 +391,7 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(images/mobile_background.jpg);
+        background-image: url(images/mobile-background.jpg);
     }
 
     .header-text {
