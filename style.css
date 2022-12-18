@@ -95,6 +95,19 @@ nav ul li a:hover::after {
 
 }
 
+.about_me {
+    text-decoration: none;
+    display: inline-block;
+    columns: #ff004f;
+    font-size: 15px;
+    margin-top: 8px;
+    color: white;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+
+
 .intro {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -347,10 +360,11 @@ nav ul li a:hover::after {
     background: #ff004f;
 }
 
-.get_in_touch{
+.get_in_touch {
     font-size: 25px;
     font-weight: 700;
 }
+
 .contact-right form {
     width: 100%;
 }
