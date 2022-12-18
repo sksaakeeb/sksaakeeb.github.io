@@ -422,6 +422,10 @@ nav .fa-solid {
         font-size: 25px;
     }
 
+    .about_me{
+        color:  #ff004f;
+    }
+    
     nav ul {
         background: #ff004f;
         position: fixed;
